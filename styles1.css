@@ -1,0 +1,29 @@
+body{
+    background-color: powderblue;
+    display: grid;
+    place-items: center;
+    
+}
+h1{
+    color: blue;
+}
+p{
+    color: red;
+}
+.dev{
+display: grid;
+width: fit-content;
+grid-template-columns: 1fr 1fr;
+gap: 1rem;
+
+}
+button{
+    width: fit-content;
+    margin: auto;
+}
+
+form{
+    display: grid;
+    width: fit-content;
+    gap: 1rem;
+}
